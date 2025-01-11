@@ -1,0 +1,19 @@
+- set of related css properties for building 1-d layouts
+- The main idea - empty space inside a container element can be automaticlly divided by its child elements
+- align items both 
+
+flexbox ->
+    - gap
+    - justify-contents
+    - align-items
+    - flex-direction
+    - flex-wrap
+    - align-content
+
+flexitems ->
+    - align-self
+    - flex-grow
+    - flex-shrink
+    - flex-basis
+    - flex
+    - order

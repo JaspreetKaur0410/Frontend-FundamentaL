@@ -1,0 +1,3 @@
+- set of css properties for building 2-d layouts
+- divide a container element into rows and columns that can be filled with its child elements
+- easy to read css

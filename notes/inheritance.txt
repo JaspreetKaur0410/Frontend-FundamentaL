@@ -1,0 +1,5 @@
+styles of parent element gets inherited to child elements
+inherited styles are easily over-written
+so, inherited styles have lowest priority
+
+many styles are not passed to child elements - border

@@ -1,0 +1,8 @@
+absolute positioning ->
+    - element is removed from the normal flow
+    - no impact on surrounding, might overlap them
+
+floats ->
+    - element is removed from normal flow
+    - text and inline elements will wrap around the floated element
+    - the container will not adjust its height to the element

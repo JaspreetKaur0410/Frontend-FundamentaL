@@ -1,0 +1,13 @@
+Normal Flow ->
+    - default
+    - position:relative
+    
+Absolute positioning ->
+    - no impact on surrounding elements, might overlap them
+    - position:absolute
+    - we use top,bottom,left or right to offset the element from its relatively positioned container
+
+NOTE ->
+    the first parent element that has positioned set to relative 
+    from which the absolutely positioned element will be placed
+

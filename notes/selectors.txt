@@ -1,0 +1,11 @@
+Conflicting selectors -
+if multiple elements selecting the same element - all rules apply
+in case, conflicting rules occur - order of selection ---> 
+            1) id(last selector in code applied if multiple ids)
+            2) class(last selector in code applied if multiple classes)
+            3) element selector(last selector in code applied if multiple times occurred in code)
+            4) universal selector(*)
+
+
+important keyword - highest priority - not a good practise though
+psudeo-class have more priority than just the element

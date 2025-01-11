@@ -1,0 +1,17 @@
+- defines how elements are displayed on a web-page and how they are sized
+- each box has 
+    - content - text,images etc
+    - border - around the element(technically inside element)
+    - padding - invisible space around the content, 
+                technically inside the element (space b/w content and border or outermost part of elemet)
+    - margin - space outside element (create space b/w elements)
+    - fill-area - text content or images are inside content box, but, 
+                background image or color occupy entire visible part of content area 
+                (including padding and border area not margin)
+
+- final width of element = lb+lp+width+rp+rb
+- final height of element = tb+tp+height+bp+bb
+- margin is not part of calculations(its just space around element)
+
+
+

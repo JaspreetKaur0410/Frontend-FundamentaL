@@ -1,0 +1,6 @@
+inline-block ->
+    - appears as inline from outside
+    - behave as block from inside
+    - box-model applies
+    - occupies only content space
+    - cause no line breaks
